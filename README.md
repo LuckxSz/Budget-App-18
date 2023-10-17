@@ -1,7 +1,6 @@
 <strong><div align="center">
 📹 Project Showcase
-<video src="
-https://github.com/LuckxSz/Budget-App-18/assets/135531180/ed98be59-8e8d-4f86-926a-22a2457b95f9">
+<video src="https://github.com/LuckxSz/Budget-App-18/assets/135531180/ed98be59-8e8d-4f86-926a-22a2457b95f9">
 
 
 
